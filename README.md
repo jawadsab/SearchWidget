@@ -1,0 +1,2 @@
+# SearchWidget
+VanillaJS
